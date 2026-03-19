@@ -1,8 +1,11 @@
 ## Hi, I'm Charith 👋
 
 💻 Computer Science Graduate
+
 🚀 Interested in Software Engineering, Systems, Machine Learning
+
 🎮 Avid gamer, Basketball player and Car enthusiast
+
 🌱 Currently building projects and expanding my technical skills
 
 ### 🔹 [Portfolio Website](https://c-k-87.github.io)
