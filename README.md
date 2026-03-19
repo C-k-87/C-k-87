@@ -1,6 +1,6 @@
 ## Hi, I'm Charith 👋
 
-💻 Computer Science Graduate
+💻 Computer Science (Hons) Graduate from University of Ruhuna
 
 🚀 Interested in Software Engineering, Systems, Machine Learning
 
