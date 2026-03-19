@@ -8,7 +8,7 @@
 
 🌱 Currently building projects and expanding my technical skills
 
-### 🔹 [Portfolio Website](https://c-k-87.github.io)
+### 📇 Check out my work on my [Portfolio Website](https://c-k-87.github.io)
 
 ---
 
