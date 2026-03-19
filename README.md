@@ -4,7 +4,7 @@
 
 🚀 Interested in Software Engineering, Systems, Machine Learning
 
-🎮 Avid gamer, Basketball player and Car enthusiast
+🎮 Avid Gamer, Basketball player and Car enthusiast
 
 🌱 Currently building projects and expanding my technical skills
 
