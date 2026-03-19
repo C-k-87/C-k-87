@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Charith 👋
 
-<!--
-**C-k-87/C-k-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Graduate
+🚀 Interested in Software Engineering, Systems, Machine Learning
+🎮 Avid gamer, Basketball player and Car enthusiast
+🌱 Currently building projects and expanding my technical skills
 
-Here are some ideas to get you started:
+### 🔹 Portfolio Website [View Portfolio](https://c-k-87.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+* **Languages:** Java, Python, TypeScript, C, Python
+* **Frontend:** React, Vite, Radix UI
+* **Backend:** Node.js, Express, Spring Boot
+* **AI/ML:** Tensorflow, llama.cpp, ChromaDB
+* **Tools:** Git, Linux, Docker
+
+---
+
+
+## 📫 Contact Me
+
+* 📧 Email: [yourname@email.com](mailto:yourname@email.com)
+* 💼 GitHub: https://github.com/C-k-87
+* 🌐 Portfolio: https://c-k-87.github.io
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=C-k-87\&show_icons=true\&theme=tokyonight)
+
+---
