@@ -5,7 +5,7 @@
 🎮 Avid gamer, Basketball player and Car enthusiast
 🌱 Currently building projects and expanding my technical skills
 
-### 🔹 Portfolio Website [View Portfolio](https://c-k-87.github.io)
+### 🔹 [Portfolio Website](https://c-k-87.github.io)
 
 ---
 
@@ -23,13 +23,12 @@
 ## 📫 Contact Me
 
 * 📧 Email: [yourname@email.com](mailto:yourname@email.com)
-* 💼 GitHub: https://github.com/C-k-87
-* 🌐 Portfolio: https://c-k-87.github.io
+* 💼 LinkedIn: https://www.linkedin.com/in/ckularatne
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=C-k-87\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-k-87)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
