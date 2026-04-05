@@ -25,7 +25,7 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [yourname@email.com](mailto:yourname@email.com)
+* 📧 Email: [cbkularatne2m@gmail.com](mailto: cbkularatne2m@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/ckularatne
 
 ---
